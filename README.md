@@ -1,4 +1,5 @@
 # DOM Practice
+These are some of basic Javascript exercises.
 
 #### Bottons
 When the button is clicked my name will appear
